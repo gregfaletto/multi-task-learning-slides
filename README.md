@@ -1,5 +1,5 @@
 # multi-task-learning-slides
-These are slides from a presentation I did at USC on two papers related to sparse feature selection in multi-task learning with linear models:
+These are slides from a presentation I did at USC on two papers related to sparse feature selection in multi-task learning with linear models.
 
 Papers:
 
