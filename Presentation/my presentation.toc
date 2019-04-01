@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Background on Multivariate Regression}{3}{0}{1}
+\beamer@sectionintoc {2}{Support Union Recovery in High-Dimensional Multivariate Regression (Obozinski, Wainwright, and Jordan 2011)}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Background and Problem Statement}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{Main Results}{20}{0}{2}
+\beamer@subsectionintoc {2}{3}{Selected Simulation Studies}{25}{0}{2}
+\beamer@sectionintoc {3}{Reduced Rank Stochastic Regression with a Sparse Singular Value Decomposition (Chen, Chan, and Stenseth 2012)}{31}{0}{3}
+\beamer@subsectionintoc {3}{1}{Background and Problem Statement}{31}{0}{3}
+\beamer@subsectionintoc {3}{2}{Optimization Problem}{35}{0}{3}
+\beamer@subsectionintoc {3}{3}{Main Results}{48}{0}{3}
+\beamer@subsectionintoc {3}{4}{Selected Simulation Study}{51}{0}{3}
